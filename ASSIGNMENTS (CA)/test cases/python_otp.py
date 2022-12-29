@@ -1,8 +1,3 @@
-"""
-    This is a Object Oriented Program to send OTP to the given email id using python smtplib
-
-    Author: umairkarel
-"""
 from dotenv import load_dotenv, find_dotenv
 from os import environ as env
 import random
