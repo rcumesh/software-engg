@@ -1,5 +1,5 @@
 # after code review all library are arranged in alphabetical order.
-#after code review we use camel case and verb as the function name.
+#after code review we use camel case and verb as the class name.
 #after code review program is divided into multiple methods.
 #after code review we try to replace the file with dictionary.
 
